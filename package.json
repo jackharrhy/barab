@@ -1,0 +1,17 @@
+{
+  "name": "barab",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/"
+  },
+  "author": "Jack Arthur Harrhy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "shortid": "^2.2.14"
+  }
+}
