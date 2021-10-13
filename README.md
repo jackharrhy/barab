@@ -3,5 +3,3 @@
 </p>
 
 # barab
-
-[![Build Status](https://drone.jackharrhy.com/api/badges/jackharrhy/barab/status.svg)](https://drone.jackharrhy.com/jackharrhy/barab)
